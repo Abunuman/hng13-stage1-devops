@@ -104,13 +104,6 @@ Removes containers, networks, and NGINX config created during deployment.
 
 - Follow the interactive prompts to complete setup and deployment.
 
-## REPOSITORY STRUCTURE
-
-.
-├── deploy.sh # Main Bash deployment script
-├── README.md # Project documentation
-└── logs/ # Optional directory for deployment logs
-
 ## Author
 
 **Toyyib Muhammad-Jamiu**
