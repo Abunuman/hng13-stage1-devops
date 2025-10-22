@@ -1,0 +1,3 @@
+[2025-10-22 22:09:36] Starting deployment script...
+[2025-10-22 22:16:28] ERROR: Missing required value for Remote host
+[2025-10-22 22:16:28] Script failed with exit code 3
