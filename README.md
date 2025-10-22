@@ -88,7 +88,7 @@ Confirms:
 
 Optionally run:
 
-./deploy.sh --cleanup
+`./deploy.sh --cleanup`
 
 Removes containers, networks, and NGINX config created during deployment.
 
